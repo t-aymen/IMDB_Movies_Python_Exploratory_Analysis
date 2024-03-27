@@ -1,4 +1,4 @@
-# IMDB Movies Exploratory Analysis Project
+# IMDB Movies Case Study
 We take the role of a market analyst for a newly established film studio who wants to use data to shape their understanding of the filming industry and inform the productions of their new movies.
 
 ## Conext and Objective
