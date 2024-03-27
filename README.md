@@ -1,7 +1,7 @@
 # IMDB Movies Case Study
 We take the role of a market analyst for a newly established film studio who wants to use data to shape their understanding of the filming industry and inform the productions of their new movies.
 
-## Conext and Objective
+## Context and Objective
 The studio's current understanding of the market states that a movie's success is largely dependant on its budget, and would like to explore further factors that may contribute to this success such as genres, actors, etc.
 
 ## Data Source
