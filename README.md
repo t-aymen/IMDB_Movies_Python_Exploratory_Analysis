@@ -5,7 +5,7 @@ We take the role of a market analyst for a newly established film studio who wan
 The studio's current understanding of the market states that a movie's success is largely dependant on its budget, and would like to explore further factors that may contribute to this success such as genres, actors, etc.
 
 ## Data Source
-The IMDB Movies dataset is an open data publicly available on <a href='https://www.kaggle.com/datasets/ashpalsingh1525/imdb-movies-dataset/data'> Kaggle </a> and contains information such as movies' release date, country of origin, genres, crews, rating scores, budget and revenue figures.
+The <a href='https://www.kaggle.com/datasets/ashpalsingh1525/imdb-movies-dataset/data'> IMDB Movies </a> dataset is an open data publicly available on Kaggle, and contains various information about movies such as release date, country of origin, genres, crews, rating scores, budget and revenue figures.
 
 <i><b>Disclaimer</b>: The IMDB Movies dataset contains a lot of inaccurate and/or erronous data that do not reflect the actual state of the filming industry. therefore, use <ins>only for educational purposes</ins> </i>.
 
